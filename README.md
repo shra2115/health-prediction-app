@@ -217,6 +217,11 @@ http://localhost:8501/
 6. User can view, update, or delete records.
 
 
+
+<img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/1033bbff-dbea-49ca-a5fa-c08913944b58" />
+
+
+
 ## 🔍 Challenges Faced
 
 * Designing effective data validation mechanisms.
