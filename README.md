@@ -216,9 +216,17 @@ http://localhost:8501/
 5. Prediction is stored in the database.
 6. User can view, update, or delete records.
 
+## ScreenShots
 
-
+## HOME Page
 <img width="1920" height="1080" alt="home" src="https://github.com/user-attachments/assets/1033bbff-dbea-49ca-a5fa-c08913944b58" />
+
+## View Page
+<img width="1920" height="1080" alt="view" src="https://github.com/user-attachments/assets/177c3298-7244-49d4-a85a-197f27bf305a" />
+
+## Prediction
+<img width="1920" height="1080" alt="prediction_result" src="https://github.com/user-attachments/assets/13d33e1e-8326-4a23-b145-fb6f04e82e18" />
+
 
 
 
