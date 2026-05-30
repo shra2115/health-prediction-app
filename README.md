@@ -171,7 +171,7 @@ Random Forest Classifier
 
 ### Step 1: Clone Repository
 
-git clone https://github.com/your-username/health-prediction-app-ai-ml.git
+https://github.com/shra2115/health-prediction-app.git
 
 cd health-prediction-app-ai-ml
 
