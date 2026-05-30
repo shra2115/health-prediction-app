@@ -203,7 +203,7 @@ streamlit run app.py
 
 ### Step 7: Open Browser
 
-http://localhost:8501
+http://localhost:8501/
 
 ---
 
