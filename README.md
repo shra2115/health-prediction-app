@@ -224,7 +224,6 @@ http://localhost:8501/
 * Managing SQLite database interactions efficiently.
 * Creating a simple and user-friendly interface.
 
----
 
 ## 🔮 Future Enhancements
 
